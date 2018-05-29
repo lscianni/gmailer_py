@@ -10,7 +10,7 @@ from sys import argv
 from getpass import getpass
 
 def get_help():
-    print('gmailer\nSend and email from a gmail account\nusage:gmailer.py [emailaddress] [subject] [recipient]')
+    print('gmailer\nSend an email from a gmail account\nusage:gmailer.py [emailaddress] [subject] [recipient]')
 
 def get_msg():
     msg = input('message:')

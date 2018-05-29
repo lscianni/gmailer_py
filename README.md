@@ -1,6 +1,6 @@
 # gmailer
 
-send emails witha gmail accont from a cli.
+send emails with a gmail accont from a cli.
 Can take a comma separated list of recipients.
 
 ## Usage:
