@@ -1,4 +1,4 @@
-#gmailer
+# gmailer
 
 send emails witha gmail accont from a cli
 
