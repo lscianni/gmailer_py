@@ -2,6 +2,7 @@
 # 
 # Gmailer
 # Louis Scianni
+# Released under the GPL-v2
 
 import smtplib 
 import email.utils
